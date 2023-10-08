@@ -59,9 +59,4 @@ This project provides a foundation for further exploration and analysis:
 - Customer Segmentation: Segment customers based on their purchasing behaviors for targeted marketing.
 - Profitability Analysis: Analyze profit margins to identify high-value products and markets.
 
- Repository
-
-For the complete project details, including code and visualizations, please visit the GitHub repository: [Sales Insights Data Analysis Project](https://github.com/yourusername/sales-insights-project)
-
----
-This report offers an overview of the Sales Insights Data Analysis Project, highlighting its objectives, data sources, analysis techniques, generated insights, and future possibilities.
+ 
